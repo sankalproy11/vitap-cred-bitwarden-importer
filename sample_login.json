@@ -1,0 +1,67 @@
+{
+    "encrypted": false,
+    "items": [
+        {
+            "passwordHistory": null,
+            "revisionDate": "2024-10-01T04:18:04.846750Z",
+            "creationDate": "2024-10-01T04:18:04.846750Z",
+            "deletedDate": null,
+            "id": "random-id-1",
+            "organizationId": null,
+            "folderId": null,
+            "type": 1,
+            "reprompt": 0,
+            "name": "hfw.vitap.ac.in",
+            "notes": null,
+            "favorite": false,
+            "login": {
+                "fido2Credentials": [],
+                "uris": [
+                    {
+                        "match": null,
+                        "uri": "https://hfw.vitap.ac.in:8090/httpclient.html"
+                    },
+                    {
+                        "match": null,
+                        "uri": "172.18.10.10:1000/login?"
+                    }
+                ],
+                "username": "21BCEXXXB",
+                "password": "pazs5uW5",
+                "totp": null
+            },
+            "collectionIds": null
+        },
+        {
+            "passwordHistory": null,
+            "revisionDate": "2024-10-01T04:18:04.846750Z",
+            "creationDate": "2024-10-01T04:18:04.846750Z",
+            "deletedDate": null,
+            "id": "random-id-1",
+            "organizationId": null,
+            "folderId": null,
+            "type": 1,
+            "reprompt": 0,
+            "name": "hfw.vitap.ac.in",
+            "notes": null,
+            "favorite": false,
+            "login": {
+                "fido2Credentials": [],
+                "uris": [
+                    {
+                        "match": null,
+                        "uri": "https://hfw.vitap.ac.in:8090/httpclient.html"
+                    },
+                    {
+                        "match": null,
+                        "uri": "172.18.10.10:1000/login?"
+                    }
+                ],
+                "username": "21BCEXXXA",
+                "password": "pazs5uW2",
+                "totp": null
+            },
+            "collectionIds": null
+        }
+    ]
+}
